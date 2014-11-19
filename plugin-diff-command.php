@@ -5,8 +5,8 @@ use \WP_CLI\Utils;
 
 /**
  * plugin diff command for WP-CLI
- * Copyright (c) 2014 Fat Panda, LLC
- * MIT Licensed
+ * @copyright 2014 Fat Panda, LLC
+ * @license http://opensource.org/licenses/mit-license.php MIT License
  */
 class FatPanda_Plugin_Command extends WP_CLI_Command
 {
