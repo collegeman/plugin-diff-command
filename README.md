@@ -1,5 +1,5 @@
 Sometimes you encounter a WordPress codebase and you're not sure
-if the plugins installed in it have bee modified.
+if the plugins installed in it have been modified.
 
 This is a simple [WP-CLI](http://wp-cli.org/) command for running diff between installed
 plugins and the source code freely available on WordPress.org.
