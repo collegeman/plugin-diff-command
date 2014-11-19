@@ -30,7 +30,7 @@ would be a welcome addition to our team.
 
 ## License
 
-MIT Licensed. Copyright &copy 2014 Fat Panda, LLC. Enjoy the freedom!
+MIT Licensed. Copyright &copy; 2014 Fat Panda, LLC. Enjoy the freedom!
 
 ## Who is Fat Panda?
 
